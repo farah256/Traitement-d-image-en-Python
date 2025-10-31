@@ -1,7 +1,7 @@
-#Description
+# Description
 Ce projet implémente des fonctions de traitement d'image en Python pour manipuler et transformer des images numériques.
 
-#Fonctionnalités
+# Fonctionnalités
 Chargement/Affichage : Ouvrir, afficher et sauvegarder des images
 
 Noir & Blanc : Génération d'images noires/blanches, négatif, damier
@@ -12,11 +12,11 @@ Opérations : Inversion, symétrie, concaténation d'images
 
 RGB : Conversion en niveaux de gris, symétrie horizontale/verticale
 
-#Technologies
+# Technologies
 Python 3
 
-Bibliothèques : NumPy, Matplotlib, OpenCV
+# Bibliothèques : NumPy, Matplotlib, OpenCV
 
-#Installation
+# Installation
 bash
 pip install numpy matplotlib opencv-python
