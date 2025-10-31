@@ -15,7 +15,8 @@ RGB : Conversion en niveaux de gris, symétrie horizontale/verticale
 # Technologies
 Python 3
 
-# Bibliothèques : NumPy, Matplotlib, OpenCV
+# Bibliothèques :
+NumPy, Matplotlib, OpenCV
 
 # Installation
 bash
