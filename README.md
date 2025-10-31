@@ -15,7 +15,7 @@ Ce projet implémente des fonctions de traitement d'image en Python pour manipul
 # Technologies
 Python 3
 
-# Bibliothèques :
+# Bibliothèques 
 NumPy, Matplotlib, OpenCV
 
 # Installation
