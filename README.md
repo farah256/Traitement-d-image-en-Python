@@ -19,5 +19,4 @@ Python 3
 NumPy, Matplotlib, OpenCV
 
 # Installation
-bash
-pip install numpy matplotlib opencv-python
+``` pip install numpy matplotlib opencv-python```
